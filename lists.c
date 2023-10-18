@@ -82,7 +82,7 @@ return (new_node);
  **/
 size_t print_list_str(const list_t *h)
 {
-ize_t i = 0;
+size_t i = 0;
 
 while (h)
 {
